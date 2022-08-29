@@ -18,7 +18,7 @@ jobs:
 
           # Options
           filename: metrics1.svg
-          user: artusm
+          user: artu43
           base: header, activity, repositories, metadata
           config_timezone: Asia/Tokyo
           config_twemoji: yes
@@ -52,7 +52,7 @@ jobs:
 
           # Options
           filename: metrics2.svg
-          user: artusm
+          user: artu43
           base: ""
           config_timezone: Asia/Tokyo
           config_twemoji: yes
